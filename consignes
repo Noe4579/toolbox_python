@@ -1,7 +1,15 @@
-Le premier code est un brutforce, il consiste a tester une liste de mdp que l'on as deja afin de trouver le mdp cherché, il est alors nécessaire d'avoir un fichier avec le code
+########################################################  BRUTFORCE  ###########################################################
+Le premier code est un brutforce, il consiste a tester une liste de mdp que l'on as deja afin de trouver le mdp cherché 
+il est alors nécessaire d'avoir un fichier avec le codeet un deuxieme avec tous les mdp a tester.
 
-et un deuxieme avec tous les mdp a tester.
+                            Ici les deux fichier devrons etre dans le meme dossier.
 
-Ici les deux fichier devrons etre dans le meme dossier.
+          si ils ne le sont pas il suffit simplement de changer le chemain d'acces directement dans le code.
 
-si ils ne le sont pas il suffit simplement de changer le chemain d'acces directement dans le code.
+############################################ GENERATEUR DE MOT DE PASSE  #######################################################
+   Le second code est un générateur de mot de passe qui consiste a donner les caracteres avec lesquels générer les mdp et 
+                                                la taille du mdp désiré.
+
+          Les mdp seront générés dans un autre fichier qui dans le cas joint doit etre dans le meme dossier.
+
+###############################################################################################################################
