@@ -1,0 +1,7 @@
+Le premier code est un brutforce, il consiste a tester une liste de mdp que l'on as deja afin de trouver le mdp cherché, il est alors nécessaire d'avoir un fichier avec le code
+
+et un deuxieme avec tous les mdp a tester.
+
+Ici les deux fichier devrons etre dans le meme dossier.
+
+si ils ne le sont pas il suffit simplement de changer le chemain d'acces directement dans le code.
